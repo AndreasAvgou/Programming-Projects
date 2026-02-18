@@ -2,7 +2,7 @@
 
 Summary of all python projects
 
-1) [Intelligent Tax Filing Web Application](https://github.com/AndreasAvgou/Intelligent-Tax-Filing-Web-Application)
+1) [Intelligent Tax Filing](https://github.com/AndreasAvgou/Intelligent-Tax-Filing)
 2) [Shortest Path Algorithms](https://github.com/AndreasAvgou/Shortest-Path-Algorithms)
 3) [Search Algorithms](https://github.com/AndreasAvgou/Search-Algorithms)
 4) [Simulation & Modeling](https://github.com/AndreasAvgou/Simulation-and-Modeling)
