@@ -1,4 +1,4 @@
-# Python Projects
+# Programming Projects
 
 Summary of all python projects
 
