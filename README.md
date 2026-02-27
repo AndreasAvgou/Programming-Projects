@@ -1,4 +1,4 @@
-# Programming Projects
+# Programming
 
 Summary of all programming projects
 
