@@ -1,6 +1,6 @@
 # Programming
 
-Summary of all programming projects
+Summary of programming projects
 
 1) [Intelligent Tax Filing](https://github.com/AndreasAvgou/Intelligent-Tax-Filing)
 2) [Tutoring System](https://github.com/AndreasAvgou/Tutoring-System)
