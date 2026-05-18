@@ -1,6 +1,6 @@
-# Programming
+# Programming & Systems
 
-Summary of programming
+Summary of Programming & Systems
 
 1) [Intelligent Tax Filing](https://github.com/AndreasAvgou/Intelligent-Tax-Filing)
 2) [Tutoring System](https://github.com/AndreasAvgou/Tutoring-System)
